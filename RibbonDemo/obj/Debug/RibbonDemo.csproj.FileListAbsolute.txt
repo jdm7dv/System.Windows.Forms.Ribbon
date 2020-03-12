@@ -1,0 +1,49 @@
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.exe
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.pdb
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon.pdb
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csprojResolveAssemblyReference.cache
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.BlackForm.resources
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.Properties.Resources.resources
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.MainForm.resources
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csproj.GenerateResource.Cache
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.exe
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.pdb
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.exe.config
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.exe
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.pdb
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon.pdb
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csprojResolveAssemblyReference.cache
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.BlackForm.resources
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.Properties.Resources.resources
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.MainForm.resources
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csproj.GenerateResource.cache
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csproj.CoreCompileInputs.cache
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csproj.CopyComplete
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.exe
+D:\My_Studio\Atlassian U\Ribbon Source\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.pdb
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.exe.config
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.exe
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.pdb
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.exe
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.pdb
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon.pdb
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csprojResolveAssemblyReference.cache
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.BlackForm.resources
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.Properties.Resources.resources
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.MainForm.resources
+D:\Microsoft\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csproj.GenerateResource.Cache
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.exe.config
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.exe
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.pdb
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.exe
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.pdb
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon.pdb
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csprojResolveAssemblyReference.cache
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.BlackForm.resources
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.Properties.Resources.resources
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.MainForm.resources
+D:\OSes\WRK-V1.2\Windows\Ribbon\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csproj.GenerateResource.Cache
